@@ -5,8 +5,8 @@
 This simple project is one of the small projects i did when trying to learn Javascript. Programming languages i used in this were HTML, CSS and JAVASCRIPT. The app has following functionalities.
 
 * Buttons from numbers 0-9.
-* Buttons like plus, minus, divide, multiplication, equel and clear..
-* Screen where the numbers appear..
+* Buttons like plus, minus, divide, multiplication, equel and clear.
+* Screen where the numbers appear.
 
 ## How to install this Calculator.
 
